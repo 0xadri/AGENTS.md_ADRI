@@ -20,8 +20,14 @@ Do work on it every single week; the cycle goes like this:
 
 # Examples
 
-- `AGENTS_adri.md` --> AGENTS.md by me (Adri), it may reference skills I have yet to publish i.e. `exe-caveman-style`
+- `AGENTS_adri.md` --> AGENTS.md by me (Adri), it may reference skills from repo [AGENT_SKILLS_ADRI](https://github.com/0xadri/AGENT_SKILLS_ADRI) i.e. `exe-caveman-style`
 
 - `AGENTS_kun.md` --> AGENTS.md by [Kun](https://github.com/kunchenguid/), the creator of `no-mistakes`
 
 - `AGENTS_theo.md` --> AGENTS.md by [Theo](https://github.com/t3dotgg), the creator of `t3.gg`
+
+---
+
+# You Might Also Like
+
+My agent skills repo [AGENT_SKILLS_ADRI](https://github.com/0xadri/AGENT_SKILLS_ADRI)
