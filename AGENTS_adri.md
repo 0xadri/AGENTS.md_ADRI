@@ -91,6 +91,21 @@ It's a Fullstack TypeScript monorepo with React frontend, Express API backend, a
 
 ---
 
+# Common Commands
+
+```bash
+# Install dependencies
+yarn install
+
+# Start server
+yarn start
+
+# Run unit tests
+yarn test-vitest
+```
+
+---
+
 # Architecture
 
 ## Monorepo structure
@@ -146,7 +161,9 @@ Feature-based: co-locate components, hooks, services, types, and tests per featu
 
 ## Docs first
 
-Before working on a feature area, read the relevant doc:
+Before working on a feature area, read the relevant doc below.
+
+However, **code is always the source of truth **. Docs may be out of sync, outdated.
 
 | Area                        | Doc                                |
 | --------------------------- | ---------------------------------- |
